@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a final-year student **Software Engineering** at ESI Algiers . I enjoy designing scalable systems and building smart software that makes a difference. I’m particularly interested in:
+I'm a final-year **Software Engineering** student at ESI Algiers . I enjoy designing scalable systems and building smart software that makes a difference. I’m particularly interested in:
 
 - 🌐 Full-Stack Development
 - 🧠 Machine Learning for real-world applications
