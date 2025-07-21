@@ -1,20 +1,24 @@
 # 👋 Hi there, I'm Safia Ines
 
 <p align="center">
-  🚀 DevOps & Machine Learning Enthusiast • 📍 Algiers • 💻 Software Engineering Student @ ESI
+  🚀 DevOps & Machine Learning Enthusiast • 📍 Algiers • 💻 Final-year Software Engineering Student @ ESI
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a final-year Software engineering student, passionate about building things that work **smoothly and smartly**.
+I'm a final-year student at ESI Algiers, specializing in **Information Systems and Software Engineering**. I enjoy designing scalable systems and building smart software that makes a difference. I’m particularly interested in:
 
-Currently diving into:
-- 🐳 **DevOps**: Docker, CI/CD, monitoring tools like Grafana & Prometheus
-- 🤖 **Machine Learning**: Python, R, Scikit-learn, model evaluation
+- 🌐 Full-Stack Development
+- 🧠 Machine Learning for real-world applications
+- ⚙️ DevOps automation & CI/CD
+- 📊 Data monitoring & system performance
 
----
+Currently exploring:
+- 🐳 **DevOps Pipelines**: Jenkins, Docker, GitHub Actions
+- 💡 **Linux Scripting**: Bash/Zsh for automation, monitoring, process management
+- 🧪 **ML Model Tuning**: Scikit-learn, model evaluation, cross-validation
 
 ---
 
@@ -31,24 +35,55 @@ Currently diving into:
 
 ---
 
-### 🛠 Tech Stack 
+### 🛠 Tech Stack
 
+#### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+
+#### 🌐 Web & App Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
+#### 🛢 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
+
+#### ⚙️ DevOps, CI/CD & Monitoring
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
+![Loki](https://img.shields.io/badge/-Loki-0E1117?logo=grafana&logoColor=white&style=flat)
+![Promtail](https://img.shields.io/badge/-Promtail-111111?logo=grafana&logoColor=white&style=flat)
+
+#### 🧪 Testing & Automation
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=flat)
+![Mockito](https://img.shields.io/badge/-Mockito-CA2138?style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat)
+
+#### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact Me
 
-- ✉️ Email: is_benguiar@esi.dz 
-- 💼 LinkedIn: [linkedin.com/in/safia-ines](https://www.linkedin.com/in/safia-ines-benguiar-2a46531a3/)
-- 🧠 Currently learning: DevOps pipelines, Linux scripting, ML model tuning
+- 📧 Email: is_benguiar@esi.dz
+- 🌍 LinkedIn: [linkedin.com/in/safia-ines](https://www.linkedin.com/in/safia-ines-benguiar-2a46531a3/)
+- 📱 Phone: +213562343315
 
 ---
 
@@ -59,4 +94,3 @@ Currently diving into:
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=tokyonight" />
 </p>
-
