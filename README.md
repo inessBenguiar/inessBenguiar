@@ -79,11 +79,11 @@ Currently exploring:
 
 ---
 
-### 📫 Contact Me
+### 📬 Contact Me
 
-- 📧 Email: is_benguiar@esi.dz
-- 🌍 LinkedIn: [linkedin.com/in/safia-ines](https://www.linkedin.com/in/safia-ines-benguiar-2a46531a3/)
-- 📱 Phone: +213562343315
+[![Email](https://img.shields.io/badge/Email-is__benguiar@esi.dz-red?style=flat-square&logo=gmail)](mailto:is_benguiar@esi.dz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Safia%20Ines%20Benguiar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/safia-ines-benguiar-2a46531a3/)
+
 
 ---
 
