@@ -16,13 +16,18 @@ Currently diving into:
 
 ---
 
-### 📌 Featured Projects 
+---
 
-| Project | Description |
-|--------|-------------|
-| **Smart SMS Gateway** | 📱 Mobile app for SMS automation using Flutter & REST API |
-| **Parkinson Detection Web App** | 🧠 Detects early signs of Parkinson’s using Django + ML |
-| **Doctor Android App** | 👩‍⚕️ App for doctors with local storage (SQLite + Jetpack Compose) |
+### 📌 Featured Projects
+
+| Project                         | Description                                                                                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Smart SMS Gateway**           |  Mobile app built with Flutter for automating SMS sending and managing user communication. [Repo](https://github.com/ics-projet/Mobile_app)                      |
+| **ParkinsonAid Web App**        |  Django web application using ML (MobileNet) for early Parkinson’s detection assistance. [Repo](https://github.com/inessBenguiar/ParkinsonAid)                   |
+| **Doctor Android App**          |  Android app for doctors with offline data storage using SQLite and Jetpack Compose. [Repo](https://github.com/inessBenguiar/Doctor-App)                      |
+| **Association Management Web**  |  Dynamic PHP web app for managing members, donations, and events in a charity association. [Repo](https://github.com/inessBenguiar/Projet-TDW-2CSSIL-)           |
+| **Local E-Tourism Platform**    |  Web platform promoting local tourism, developed in a simulated client–subcontractor environment. [Repo](https://github.com/inessBenguiar/e-tourism)             |
+| **IRCHAD (Confidential)**       |  System for assisting visually impaired users. Contributed to monitoring and log visualization using Grafana & Loki. (Repo unavailable). *(Repo unavailable)*     |
 
 ---
 
