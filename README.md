@@ -92,9 +92,9 @@ Currently exploring:
 <div align="center">
 
 <!-- GitHub Streak (Mirror) -->
-<a href="https://github.com/inessBenguiar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=default&hide_border=true" alt="GitHub Streak"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=tokyonight" />
+</p>
 
 <!-- Contribution Graph -->
 <a href="https://github.com/inessBenguiar">
