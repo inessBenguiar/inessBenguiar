@@ -91,9 +91,9 @@ Currently exploring:
 
 <div align="center">
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (Mirror) -->
 <a href="https://github.com/inessBenguiar">
-  <img src="https://streak-stats.demolab.com?user=inessBenguiar&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=default&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <!-- Contribution Graph -->
