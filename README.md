@@ -89,8 +89,22 @@ Currently exploring:
 
 ### 🔍 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inessBenguiar&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=tokyonight" />
-</p>
+<div align="center">
+
+<!-- GitHub Streak -->
+<a href="https://github.com/inessBenguiar">
+  <img src="https://streak-stats.demolab.com?user=inessBenguiar&theme=default&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<!-- Contribution Graph -->
+<a href="https://github.com/inessBenguiar">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inessBenguiar&bg_color=ffffff&color=000000&line=0088cc&point=000000&hide_border=true" alt="GitHub Contribution Graph"/>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/inessBenguiar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inessBenguiar&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</a>
+
+</div>
+
