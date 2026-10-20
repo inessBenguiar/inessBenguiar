@@ -93,19 +93,19 @@ Currently exploring:
 
 <div align="center">
 
-<!-- GitHub Streak (Mirror) -->
+<!-- GitHub Streak (maintained mirror) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inessBenguiar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=inessBenguiar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph (static SVG generated daily by .github/workflows/metrics.yml) -->
 <a href="https://github.com/inessBenguiar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inessBenguiar&bg_color=ffffff&color=000000&line=0088cc&point=000000&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="./github-metrics.svg" alt="GitHub Contribution Graph" />
 </a>
 
 <!-- Top Languages -->
 <a href="https://github.com/inessBenguiar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inessBenguiar&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inessBenguiar&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
