@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Safia Ines
+# 👋 Hi there, I'm Safia Ines 
 
 <p align="center">
   🚀 Data Engineering & AI Enthusiast • 📍 Paris, France • 💻 Software Engineer @ ESI Algiers
