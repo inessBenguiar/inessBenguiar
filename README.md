@@ -1,24 +1,24 @@
 # 👋 Hi there, I'm Safia Ines
 
 <p align="center">
-  🚀 DevOps & Machine Learning Enthusiast • 📍 Algiers • 💻 Final-year Software Engineering Student @ ESI
+  🚀 Data Engineering & AI Enthusiast • 📍 Paris, France • 💻 Software Engineer @ ESI Algiers
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a final-year **Software Engineering** student at ESI Algiers . I enjoy designing scalable systems and building smart software that makes a difference. I’m particularly interested in:
+I'm a **Software Engineer** at ESI Algiers, based in Paris, France, with a focus on data engineering and AI. I enjoy building reliable data pipelines and ML-powered software that solves real problems. I'm particularly interested in:
 
-- 🌐 Full-Stack Development
-- 🧠 Machine Learning for real-world applications
-- ⚙️ DevOps automation & CI/CD
-- 📊 Data monitoring & system performance
+- 🏗️ Data Engineering: pipelines, data modeling and storage
+- 🧠 Machine Learning & AI for real-world applications
+- ⚙️ Automation & CI/CD for data and ML workflows
+- 📊 Data monitoring, observability & system performance
 
 Currently exploring:
-- 🐳 **DevOps Pipelines**: Jenkins, Docker, GitHub Actions
-- 💡 **Linux Scripting**: Bash/Zsh for automation, monitoring, process management
 - 🧪 **ML Model Tuning**: Scikit-learn, model evaluation, cross-validation
+- 🐳 **Pipeline Automation**: Jenkins, Docker, GitHub Actions
+- 💡 **Linux Scripting**: Bash/Zsh for automation, monitoring, process management
 
 ---
 
@@ -26,12 +26,12 @@ Currently exploring:
 
 | Project                         | Description                                                                                                                                                        |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Smart SMS Gateway**           |  Mobile app built with Flutter for automating SMS sending and managing user communication. [Repo](https://github.com/ics-projet/Mobile_app)                      |
 | **ParkinsonAid Web App**        |  Django web application using ML (MobileNet) for early Parkinson’s detection assistance. [Repo](https://github.com/inessBenguiar/ParkinsonAid)                   |
+| **IRCHAD (Confidential)**       |  System for assisting visually impaired users. Contributed to monitoring and log visualization using Grafana & Loki. *(Repo unavailable)*                        |
 | **Doctor Android App**          |  Android app for doctors with offline data storage using SQLite and Jetpack Compose. [Repo](https://github.com/inessBenguiar/Doctor-App)                      |
 | **Association Management Web**  |  Dynamic PHP web app for managing members, donations, and events in a charity association. [Repo](https://github.com/inessBenguiar/Projet-TDW-2CSSIL-)           |
+| **Smart SMS Gateway**           |  Mobile app built with Flutter for automating SMS sending and managing user communication. [Repo](https://github.com/ics-projet/Mobile_app)                      |
 | **Local E-Tourism Platform**    |  Web platform promoting local tourism, developed in a simulated client–subcontractor environment. [Repo](https://github.com/inessBenguiar/e-tourism)             |
-| **IRCHAD (Confidential)**       |  System for assisting visually impaired users. Contributed to monitoring and log visualization using Grafana & Loki. (Repo unavailable). *(Repo unavailable)*     |
 
 ---
 
@@ -45,20 +45,16 @@ Currently exploring:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 
-#### 🌐 Web & App Development
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-
-#### 🛢 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+#### 🛢 Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
 
-#### ⚙️ DevOps, CI/CD & Monitoring
+#### 🧠 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+
+#### ⚙️ Pipelines, Automation & Monitoring
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
@@ -68,7 +64,14 @@ Currently exploring:
 ![Loki](https://img.shields.io/badge/-Loki-0E1117?logo=grafana&logoColor=white&style=flat)
 ![Promtail](https://img.shields.io/badge/-Promtail-111111?logo=grafana&logoColor=white&style=flat)
 
-#### 🧪 Testing & Automation
+#### 🌐 Web & App Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
+#### 🧪 Testing & Code Quality
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=flat)
 ![Mockito](https://img.shields.io/badge/-Mockito-CA2138?style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
@@ -83,7 +86,6 @@ Currently exploring:
 
 [![Email](https://img.shields.io/badge/Email-is__benguiar@esi.dz-red?style=flat-square&logo=gmail)](mailto:is_benguiar@esi.dz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Safia%20Ines%20Benguiar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/safia-ines-benguiar-2a46531a3/)
-
 
 ---
 
@@ -107,4 +109,3 @@ Currently exploring:
 </a>
 
 </div>
-
