@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a **Software Engineer** at ESI Algiers, based in Paris, France, with a focus on data engineering and AI. I enjoy building reliable data pipelines and ML-powered software that solves real problems. I'm particularly interested in:
+I'm a **Software Engineer** based in Paris, France, with a focus on data engineering and AI. I enjoy building reliable data pipelines and ML-powered software that solves real problems. I'm particularly interested in:
 
 - 🏗️ Data Engineering: pipelines, data modeling and storage
 - 🧠 Machine Learning & AI for real-world applications
